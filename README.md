@@ -1,0 +1,1 @@
+Endless list adapter downloaded from https://github.com/commonsguy/cwac-endless
